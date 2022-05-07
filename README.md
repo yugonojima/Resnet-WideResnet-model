@@ -1,1 +1,1 @@
-# Resnet-WideResnet-model-
+# Resnet-WideResnet-model
